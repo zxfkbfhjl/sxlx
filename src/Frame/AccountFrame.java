@@ -15,7 +15,7 @@ import javax.swing.JTextField;
 @SuppressWarnings("serial")
 public class AccountFrame extends JFrame {
 	//Ìí¼Ó°´Å¥
-	 private JButton btnAdd=new JButton("add");
+	private JButton btnAdd=new JButton("add");
 	 //
     private JButton btnDelete=new JButton("delete");
     //

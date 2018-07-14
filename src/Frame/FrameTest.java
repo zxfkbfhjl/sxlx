@@ -52,7 +52,6 @@ public class FrameTest extends JFrame {
         //œ‘ æ√Ê∞Â
         this.setVisible(true);
         }
-
     public static void main(String args[]) {
         new FrameTest();
     }

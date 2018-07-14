@@ -27,5 +27,9 @@ public class JDBCDome {
 		}
 	
 	}
+    public static void main(String  args[]){
+        JDBCDome jdbcDome= new JDBCDome();
+        jdbcDome.testConnection();
+        }
 
 }

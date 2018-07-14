@@ -36,6 +36,7 @@ public class FrameTest extends JFrame {
                         JOptionPane.showMessageDialog(null,""+txtweb.getText()+","+txtaccount.getText()+","+txtpassword.getText()+","+txtremark.getText());
                     }
                 });
+        
         //在面板中添加标签、文本框、按钮
         this.add(jlabelweb);
         this.add(txtweb);
